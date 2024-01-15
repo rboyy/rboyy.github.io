@@ -15,37 +15,8 @@
     <atom:link href="https://rboyy.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Mon, 15 Jan 2024 19:35:43 GMT</pubDate>
+    <pubDate>Mon, 15 Jan 2024 15:36:31 GMT</pubDate>
     <generator>http://hexo.io/</generator>
-    
-    <item>
-      <title>电影</title>
-      <link>https://rboyy.github.io/2024/01/16/Hexo%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%20-%20%E5%89%AF%E6%9C%AC/</link>
-      <guid>https://rboyy.github.io/2024/01/16/Hexo%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%20-%20%E5%89%AF%E6%9C%AC/</guid>
-      <pubDate>Tue, 16 Jan 2024 12:25:03 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;h3 id=&quot;&quot;&gt;&lt;a href=&quot;#&quot; class=&quot;headerlink&quot; title=&quot;&quot;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span</description>
-          
-        
-      
-      
-      
-      <content:encoded><![CDATA[<h3 id=""><a href="#" class="headerlink" title=""></a></h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">哈哈哈哈哈哈哈 哈ha</span><br></pre></td></tr></table></figure>]]></content:encoded>
-      
-      
-      <category domain="https://rboyy.github.io/categories/%E7%94%B5%E5%BD%B1/">电影</category>
-      
-      
-      <category domain="https://rboyy.github.io/tags/%E7%94%B5%E5%BD%B1/">电影</category>
-      
-      
-      <comments>https://rboyy.github.io/2024/01/16/Hexo%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C%20-%20%E5%89%AF%E6%9C%AC/#disqus_thread</comments>
-      
-    </item>
     
     <item>
       <title>关于我</title>
@@ -74,29 +45,29 @@
     </item>
     
     <item>
-      <title>Hexo使用手册（流程）</title>
-      <link>https://rboyy.github.io/2024/01/12/Hexo%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/</link>
-      <guid>https://rboyy.github.io/2024/01/12/Hexo%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/</guid>
+      <title>我的Hexo使用手册 1.0</title>
+      <link>https://rboyy.github.io/2024/01/12/%E6%88%91%E7%9A%84Hexo%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/</link>
+      <guid>https://rboyy.github.io/2024/01/12/%E6%88%91%E7%9A%84Hexo%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/</guid>
       <pubDate>Fri, 12 Jan 2024 12:25:03 GMT</pubDate>
       
         
         
           
           
-      <description>&lt;h3 id=&quot;日常命令：&quot;&gt;&lt;a href=&quot;#日常命令：&quot; class=&quot;headerlink&quot; title=&quot;日常命令：&quot;&gt;&lt;/a&gt;日常命令：&lt;/h3&gt;&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</description>
+      <description>&lt;h3 id=&quot;日常命令&quot;&gt;&lt;a href=&quot;#日常命令&quot; class=&quot;headerlink&quot; title=&quot;日常命令&quot;&gt;&lt;/a&gt;日常命令&lt;/h3&gt;&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</description>
           
         
       
       
       
-      <content:encoded><![CDATA[<h3 id="日常命令："><a href="#日常命令：" class="headerlink" title="日常命令："></a>日常命令：</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">hexo clean#删除整个public，不需要经常使用，偶尔清理使用。</span><br><span class="line">hexo new page xxx#新建分类页，记得添加 type: &quot;分类名&quot;</span><br><span class="line">hexo new &quot;xxx&quot;#新建文章</span><br><span class="line">hexo s#启动服务器预览</span><br><span class="line">hexo g#生成静态文件夹public/</span><br><span class="line">hexo d#将生成的public部署到Github</span><br></pre></td></tr></table></figure><h3 id="Matter文档文件头"><a href="#Matter文档文件头" class="headerlink" title="Matter文档文件头"></a>Matter文档文件头</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">title: Hello World#标题</span><br><span class="line">date: 2024-01-12 20:25:03#创建日期</span><br><span class="line">cover: https://xxx.jpg#文章缩略图</span><br><span class="line">categories: shop#文章分类</span><br><span class="line">tags: shop#文章标签</span><br><span class="line">comments: true#是否打开评论</span><br></pre></td></tr></table></figure><h3 id="图片CDN加速"><a href="#图片CDN加速" class="headerlink" title="图片CDN加速"></a>图片CDN加速</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">https://jsd.cdn.zzko.cn/gh/用户名/仓库名@分支名/文件</span><br><span class="line"></span><br><span class="line">#示例</span><br><span class="line">https://jsd.cdn.zzko.cn/gh/rboyy/photo@main/blog/202401152002368.png</span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content:encoded>
+      <content:encoded><![CDATA[<h3 id="日常命令"><a href="#日常命令" class="headerlink" title="日常命令"></a>日常命令</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">hexo clean#删除整个public，不需要经常使用，偶尔清理使用。</span><br><span class="line">hexo new page xxx#新建分类页，记得添加 type: &quot;分类名&quot;</span><br><span class="line">hexo new &quot;xxx&quot;#新建文章</span><br><span class="line">hexo s#启动服务器预览</span><br><span class="line">hexo g#生成静态文件夹public/</span><br><span class="line">hexo d#将生成的public部署到Github</span><br></pre></td></tr></table></figure><h3 id="Matter文档文件头"><a href="#Matter文档文件头" class="headerlink" title="Matter文档文件头"></a>Matter文档文件头</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">title: Hello World#标题</span><br><span class="line">date: 2024-01-12 20:25:03#创建日期</span><br><span class="line">cover: https://xxx.jpg#文章缩略图</span><br><span class="line">categories: shop#文章分类</span><br><span class="line">tags: shop#文章标签</span><br><span class="line">comments: true#是否打开评论</span><br></pre></td></tr></table></figure><h3 id="文章分类："><a href="#文章分类：" class="headerlink" title="文章分类："></a>文章分类：</h3><ul><li>电影</li><li>音乐</li><li>书籍 </li><li>游戏</li><li>开箱评测</li></ul><h3 id="图片CDN加速"><a href="#图片CDN加速" class="headerlink" title="图片CDN加速"></a>图片CDN加速</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"></span><br><span class="line">https://jsd.cdn.zzko.cn/gh/用户名/仓库名@分支名/文件</span><br><span class="line"></span><br><span class="line">#示例</span><br><span class="line">https://jsd.cdn.zzko.cn/gh/rboyy/photo@main/blog/202401152002368.png</span><br><span class="line"></span><br></pre></td></tr></table></figure><p>PicGo可直接设置自定义域名 <code>https://jsd.cdn.zzko.cn/gh/rboyy/photo@main</code></p><p><img src="https://jsd.cdn.zzko.cn/gh/rboyy/photo@main/blog/20240116053555.png"></p>]]></content:encoded>
       
       
       
       <category domain="https://rboyy.github.io/tags/hexo/">hexo</category>
       
       
-      <comments>https://rboyy.github.io/2024/01/12/Hexo%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/#disqus_thread</comments>
+      <comments>https://rboyy.github.io/2024/01/12/%E6%88%91%E7%9A%84Hexo%E4%BD%BF%E7%94%A8%E6%89%8B%E5%86%8C/#disqus_thread</comments>
       
     </item>
     

@@ -15,8 +15,38 @@
     <atom:link href="https://rboyy.github.io/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Thu, 08 Feb 2024 23:08:17 GMT</pubDate>
+    <pubDate>Thu, 15 Feb 2024 18:29:15 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>如何保存ADB授权</title>
+      <link>https://rboyy.github.io/posts/1701/</link>
+      <guid>https://rboyy.github.io/posts/1701/</guid>
+      <pubDate>Thu, 15 Feb 2024 18:16:00 GMT</pubDate>
+      
+        
+        
+          
+          
+      <description>&lt;p&gt;一直不理解那种群控机箱是如何解决ADB授权问题的，才知道安卓的ADB也会自动生成私钥与公钥。&lt;/p&gt;
+&lt;p&gt;我们的PC机（以windows为例）上启动了adb.exe进程时，adb会在本地生成一对密钥</description>
+          
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>一直不理解那种群控机箱是如何解决ADB授权问题的，才知道安卓的ADB也会自动生成私钥与公钥。</p><p>我们的PC机（以windows为例）上启动了adb.exe进程时，adb会在本地生成一对密钥 adbkey(私钥)与adbkey.pub(公钥);</p><p>当你首次启动adb.exe时，会在C盘的当前用户的目录下生成一个”.android”目录，其中adbkey与adbkey.pub就在这个目录下。</p><p>adb.exe会在启动时读取这两个文件(没有就重新生成)，所以如果你要是删除或者修改了这两个文件之后，必须要关闭adb.exe进程，重启之后才能生效。</p><p>其次Android上，PC的公钥被保存在一个文件中”&#x2F;data&#x2F;misc&#x2F;adb&#x2F;adb_keys”</p><p>转自 <a href="https://www.uotan.cn/threads/adb.2889/">我想去掉adb授权提示，但我实在搞不懂资料</a></p>]]></content:encoded>
+      
+      
+      <category domain="https://rboyy.github.io/categories/%E6%8A%98%E8%85%BE%E6%97%A5%E8%AE%B0/">折腾日记</category>
+      
+      
+      <category domain="https://rboyy.github.io/tags/%E5%AE%89%E5%8D%93/">安卓</category>
+      
+      
+      <comments>https://rboyy.github.io/posts/1701/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>WIFI路由器干扰罗技G304鼠标</title>

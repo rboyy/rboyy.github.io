@@ -3,12 +3,12 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>瑞boy的Blog</title>
+    <title>瑞Boy的Blog</title>
     <link>https://rboyy.github.io/</link>
     
     <image>
       <url>https://rboyy.github.io/images/favicon_200x200.png</url>
-      <title>瑞boy的Blog</title>
+      <title>瑞Boy的Blog</title>
       <link>https://rboyy.github.io/</link>
     </image>
     

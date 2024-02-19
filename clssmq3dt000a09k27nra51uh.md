@@ -3,7 +3,7 @@ title: "闲置云电脑/本地Win利用蜂鸟舆情挂机获取收益 单号日�
 datePublished: Thu Feb 15 2024 16:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: clssmq3dt000a09k27nra51uh
 slug: win-4
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708330876938/931924a5-c00c-4aeb-80a0-d893fa8a9a29.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1708331135353/19a4039f-78fe-4c78-ac37-c4c99cd4e2e0.png
 tags: rboy, 6jaf576k5qb
 
 ---

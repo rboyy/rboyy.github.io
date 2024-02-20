@@ -7,7 +7,7 @@ tags: rboy, 6jaf576k5qb, 5rwb6yep5y2h
 
 ---
 
-水川卡 29 元 135G+100分钟（长期可续） 审核快，最快当日发货
+水川卡 29 元 135G+100分钟(联通唯一长期卡) 审核快，最快当日发货
 
 [**<mark>点我在线办理</mark>**](https://hk.yunhaoka.cn/#/pages/goods/details?goods_id=72951134&share_id=272668&type=10&channel=1875)
 

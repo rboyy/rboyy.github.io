@@ -12,15 +12,8 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>©2026-2026 Rboy Blog</copyright>
-    <lastBuildDate>Sat, 30 May 2026 08:32:33 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://rboyy.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello World</title>
-      <link>https://rboyy.github.io/posts/blog-post-slug/</link>
-      <pubDate>Sat, 30 May 2026 08:32:33 +0800</pubDate>
-      <guid>https://rboyy.github.io/posts/blog-post-slug/</guid>
-      <description>Description Text.</description>
-    </item>
     <item>
       <title>ceshi</title>
       <link>https://rboyy.github.io/posts/blog-post-slug/</link>
@@ -29,14 +22,7 @@
       <description>描述</description>
     </item>
     <item>
-      <title>未命名</title>
-      <link>https://rboyy.github.io/posts/blog-post-slug/</link>
-      <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://rboyy.github.io/posts/blog-post-slug/</guid>
-      <description>描述</description>
-    </item>
-    <item>
-      <title>未命名 1</title>
+      <title>未最最最最最后再测试一次1</title>
       <link>https://rboyy.github.io/posts/blog-post-slug/</link>
       <pubDate>Sat, 30 May 2026 00:00:00 +0000</pubDate>
       <guid>https://rboyy.github.io/posts/blog-post-slug/</guid>
